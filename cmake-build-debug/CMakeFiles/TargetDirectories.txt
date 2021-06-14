@@ -1,0 +1,3 @@
+/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/cmake-build-debug/CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir
