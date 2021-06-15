@@ -15,8 +15,8 @@ add_executable(HS_Osnabrueck_OOAD_FangDenHut
         FangDenHut/FangDenHut/main.cpp
         FangDenHut/FangDenHut/Feld/Ruhefeld.cpp
         FangDenHut/FangDenHut/Feld/Ruhefeld.h
-        FangDenHut/FangDenHut/Spiel.cpp
-        FangDenHut/FangDenHut/Spiel.h
+        FangDenHut/FangDenHut/FangDenHut.cpp
+        FangDenHut/FangDenHut/FangDenHut.h
         FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp
         FangDenHut/FangDenHut/Spielbrett/Spielbrett.h
         FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp
@@ -29,4 +29,4 @@ add_executable(HS_Osnabrueck_OOAD_FangDenHut
         FangDenHut/FangDenHut/Spieler/SpielerController.h
         FangDenHut/FangDenHut/Spieler/SpielerView.h
         FangDenHut/FangDenHut/Wuefel.cpp
-        FangDenHut/FangDenHut/Wuefel.h FangDenHut/FangDenHut/Farbe.h FangDenHut/FangDenHut/View.cpp FangDenHut/FangDenHut/View.h FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp FangDenHut/FangDenHut/Spielbrett/StartbereichView.h FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp FangDenHut/FangDenHut/Spielbrett/LaufbahnView.h)
+        FangDenHut/FangDenHut/Wuefel.h FangDenHut/FangDenHut/Farbe.h FangDenHut/FangDenHut/View.cpp FangDenHut/FangDenHut/View.h FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp FangDenHut/FangDenHut/Spielbrett/StartbereichView.h FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp FangDenHut/FangDenHut/Spielbrett/LaufbahnView.h FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp FangDenHut/FangDenHut/Feld/HeimatfeldView.h)

@@ -1,23 +1,17 @@
-//
-// Created by pjd-x1 on 6/15/21.
-//
+#pragma once
 
-#ifndef HS_OSNABRUECK_OOAD_FANGDENHUT_LAUFBAHNVIEW_H
-#define HS_OSNABRUECK_OOAD_FANGDENHUT_LAUFBAHNVIEW_H
 #include "View.h"
-#include <memory>
-#include <iostream>
 #include <list>
+#include <memory>
+#include "Feld/Feld.h"
+#include "Feld/Heimatfeld.h"
 
-class Feld;
-class LaufbahnView :public View{
+class LaufbahnView : public View {
+public:
+    LaufbahnView(std::list<std::shared_ptr<Feld>> felder);
+    void show();
+    //void modelChanged();
 private:
     std::list<std::shared_ptr<Feld>> felder;
-
-public:
-    LaufbahnView(std::list<std::shared_ptr<Feld>> _felder): felder(_felder){}
-    void show();
+    //std::list<std::shared_ptr<Heimatfeld>> h_felder;
 };
-
-
-#endif //HS_OSNABRUECK_OOAD_FANGDENHUT_LAUFBAHNVIEW_H

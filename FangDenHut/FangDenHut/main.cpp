@@ -2,10 +2,13 @@
 //
 
 #include <iostream>
+#include "memory"
+#include "FangDenHut.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::unique_ptr<FangDenHut> fangDenHut = std::make_unique<FangDenHut>();
+    fangDenHut->spielStart(4,50);
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

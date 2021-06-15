@@ -1,3 +1,4 @@
+#include <Feld/HeimatfeldView.h>
 #include "Spielbrett.h"
 
 Spielbrett::Spielbrett(int _spielerAnzal, int _felderAnzahl):spielerAnzahl(_spielerAnzal), felderAnzahl(_felderAnzahl) {
@@ -16,3 +17,17 @@ void Spielbrett::spielerAnlegen(int spieleranzahl) {
     }
 
 }
+
+Feld* Spielbrett::getFelderIndex(int x) {
+    Feld* tmp = felder.begin()->get();
+    std::advance(tmp, x);
+    return tmp;
+}
+
+void Spielbrett::showSpielbrett() {
+    l_view.get()->show();
+    for(std::list<std::unique_ptr<HeimatfeldView>>::iterator it = h_view.begin(); it != h_view.end(); ++it){
+        it->get()->show();
+    }
+}
+

@@ -1,30 +1,28 @@
 #pragma once
 
 #include "Spieler/Spieler.h"
+#include "LaufbahnView.h"
 #include <memory>
 #include <Feld/Heimatfeld.h>
 
-class Spielbrett
-{
+class Spielbrett{
 private:
     int spielerAnzahl;
 	int felderAnzahl;
-	std::unique_ptr<Spieler> aktiverSpieler;  //std::unique_ptr<Spieler>
     std::list<std::shared_ptr<Feld>> felder;
-    std::list<std::shared_ptr<Heimatfeld>> heimatfelder;
+    std::unique_ptr<LaufbahnView> l_view;
+    std::list<std::unique_ptr<HeimatfeldView>> h_view;
     void felderAnlegen(int felderanzahl);
     void spielerAnlegen(int spieleranzahl);
-
 public:
+    Feld* getFelderIndex(int x);
     Spielbrett(int _spielerAnzal, int _feldernZahl);
-
 	int getSpielerAnzahl() { return spielerAnzahl; }
 	void setSpielerAnzahl(int anzahl) { spielerAnzahl = anzahl; }
 	int getFelderAnzahl() { return felderAnzahl; }
 	void setFelderAnzahl(int anzahl) { felderAnzahl = anzahl; }
-	Spieler getAktiverSpieler() { return *aktiverSpieler; }
-	//void setAktiverSpieler(Spieler* p) { aktiverSpieler = p; }
 
-
-
+    Spielbrett(int i);
+    void showSpielbrett();
+    std::list<std::shared_ptr<Heimatfeld>> heimatfelder;
 };

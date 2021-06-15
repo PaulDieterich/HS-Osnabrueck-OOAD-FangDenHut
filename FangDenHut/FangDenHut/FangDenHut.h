@@ -3,12 +3,13 @@
 #include <memory>
 #include "Spieler/SpielerController.h"
 #include "Wuefel.h"
-class Spiel
+#include <iostream>
+class FangDenHut
 {
 private: 
 
 public: 
-	void spielStart(int spieleranzahl);
+	void spielStart(int spieleranzahl,int felderzahlen);
 	std::unique_ptr<SpielerController> controller;
 };
 

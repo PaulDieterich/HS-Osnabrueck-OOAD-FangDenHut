@@ -1,9 +1,10 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/FangDenHut.cpp.o"
   "CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/Feld.cpp.o"
   "CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/Heimatfeld.cpp.o"
+  "CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.o"
   "CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/Ruhefeld.cpp.o"
   "CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Huetchen.cpp.o"
-  "CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spiel.cpp.o"
   "CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o"
   "CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.o"
   "CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp.o"

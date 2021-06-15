@@ -142,6 +142,33 @@ HS_Osnabrueck_OOAD_FangDenHut/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build
 .PHONY : HS_Osnabrueck_OOAD_FangDenHut/fast
 
+FangDenHut/FangDenHut/FangDenHut.o: FangDenHut/FangDenHut/FangDenHut.cpp.o
+
+.PHONY : FangDenHut/FangDenHut/FangDenHut.o
+
+# target to build an object file
+FangDenHut/FangDenHut/FangDenHut.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/FangDenHut.cpp.o
+.PHONY : FangDenHut/FangDenHut/FangDenHut.cpp.o
+
+FangDenHut/FangDenHut/FangDenHut.i: FangDenHut/FangDenHut/FangDenHut.cpp.i
+
+.PHONY : FangDenHut/FangDenHut/FangDenHut.i
+
+# target to preprocess a source file
+FangDenHut/FangDenHut/FangDenHut.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/FangDenHut.cpp.i
+.PHONY : FangDenHut/FangDenHut/FangDenHut.cpp.i
+
+FangDenHut/FangDenHut/FangDenHut.s: FangDenHut/FangDenHut/FangDenHut.cpp.s
+
+.PHONY : FangDenHut/FangDenHut/FangDenHut.s
+
+# target to generate assembly for a file
+FangDenHut/FangDenHut/FangDenHut.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/FangDenHut.cpp.s
+.PHONY : FangDenHut/FangDenHut/FangDenHut.cpp.s
+
 FangDenHut/FangDenHut/Feld/Feld.o: FangDenHut/FangDenHut/Feld/Feld.cpp.o
 
 .PHONY : FangDenHut/FangDenHut/Feld/Feld.o
@@ -196,6 +223,33 @@ FangDenHut/FangDenHut/Feld/Heimatfeld.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/Heimatfeld.cpp.s
 .PHONY : FangDenHut/FangDenHut/Feld/Heimatfeld.cpp.s
 
+FangDenHut/FangDenHut/Feld/HeimatfeldView.o: FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.o
+
+.PHONY : FangDenHut/FangDenHut/Feld/HeimatfeldView.o
+
+# target to build an object file
+FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.o
+.PHONY : FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.o
+
+FangDenHut/FangDenHut/Feld/HeimatfeldView.i: FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.i
+
+.PHONY : FangDenHut/FangDenHut/Feld/HeimatfeldView.i
+
+# target to preprocess a source file
+FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.i
+.PHONY : FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.i
+
+FangDenHut/FangDenHut/Feld/HeimatfeldView.s: FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.s
+
+.PHONY : FangDenHut/FangDenHut/Feld/HeimatfeldView.s
+
+# target to generate assembly for a file
+FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.s
+.PHONY : FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.s
+
 FangDenHut/FangDenHut/Feld/Ruhefeld.o: FangDenHut/FangDenHut/Feld/Ruhefeld.cpp.o
 
 .PHONY : FangDenHut/FangDenHut/Feld/Ruhefeld.o
@@ -249,33 +303,6 @@ FangDenHut/FangDenHut/Huetchen.s: FangDenHut/FangDenHut/Huetchen.cpp.s
 FangDenHut/FangDenHut/Huetchen.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Huetchen.cpp.s
 .PHONY : FangDenHut/FangDenHut/Huetchen.cpp.s
-
-FangDenHut/FangDenHut/Spiel.o: FangDenHut/FangDenHut/Spiel.cpp.o
-
-.PHONY : FangDenHut/FangDenHut/Spiel.o
-
-# target to build an object file
-FangDenHut/FangDenHut/Spiel.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spiel.cpp.o
-.PHONY : FangDenHut/FangDenHut/Spiel.cpp.o
-
-FangDenHut/FangDenHut/Spiel.i: FangDenHut/FangDenHut/Spiel.cpp.i
-
-.PHONY : FangDenHut/FangDenHut/Spiel.i
-
-# target to preprocess a source file
-FangDenHut/FangDenHut/Spiel.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spiel.cpp.i
-.PHONY : FangDenHut/FangDenHut/Spiel.cpp.i
-
-FangDenHut/FangDenHut/Spiel.s: FangDenHut/FangDenHut/Spiel.cpp.s
-
-.PHONY : FangDenHut/FangDenHut/Spiel.s
-
-# target to generate assembly for a file
-FangDenHut/FangDenHut/Spiel.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spiel.cpp.s
-.PHONY : FangDenHut/FangDenHut/Spiel.cpp.s
 
 FangDenHut/FangDenHut/Spielbrett/LaufbahnView.o: FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o
 
@@ -556,21 +583,24 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... HS_Osnabrueck_OOAD_FangDenHut"
+	@echo "... FangDenHut/FangDenHut/FangDenHut.o"
+	@echo "... FangDenHut/FangDenHut/FangDenHut.i"
+	@echo "... FangDenHut/FangDenHut/FangDenHut.s"
 	@echo "... FangDenHut/FangDenHut/Feld/Feld.o"
 	@echo "... FangDenHut/FangDenHut/Feld/Feld.i"
 	@echo "... FangDenHut/FangDenHut/Feld/Feld.s"
 	@echo "... FangDenHut/FangDenHut/Feld/Heimatfeld.o"
 	@echo "... FangDenHut/FangDenHut/Feld/Heimatfeld.i"
 	@echo "... FangDenHut/FangDenHut/Feld/Heimatfeld.s"
+	@echo "... FangDenHut/FangDenHut/Feld/HeimatfeldView.o"
+	@echo "... FangDenHut/FangDenHut/Feld/HeimatfeldView.i"
+	@echo "... FangDenHut/FangDenHut/Feld/HeimatfeldView.s"
 	@echo "... FangDenHut/FangDenHut/Feld/Ruhefeld.o"
 	@echo "... FangDenHut/FangDenHut/Feld/Ruhefeld.i"
 	@echo "... FangDenHut/FangDenHut/Feld/Ruhefeld.s"
 	@echo "... FangDenHut/FangDenHut/Huetchen.o"
 	@echo "... FangDenHut/FangDenHut/Huetchen.i"
 	@echo "... FangDenHut/FangDenHut/Huetchen.s"
-	@echo "... FangDenHut/FangDenHut/Spiel.o"
-	@echo "... FangDenHut/FangDenHut/Spiel.i"
-	@echo "... FangDenHut/FangDenHut/Spiel.s"
 	@echo "... FangDenHut/FangDenHut/Spielbrett/LaufbahnView.o"
 	@echo "... FangDenHut/FangDenHut/Spielbrett/LaufbahnView.i"
 	@echo "... FangDenHut/FangDenHut/Spielbrett/LaufbahnView.s"

@@ -10,6 +10,7 @@ class Feld
 private: 
 	int feldID; 
     bool besetzt;
+
     std::shared_ptr<Huetchen> huetchen;
 public:
     Feld(int id):feldID(id) {}

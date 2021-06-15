@@ -16,6 +16,6 @@ public:
     Heimatfeld(Farbe _farbe): farbe(_farbe){};
     void huetchenStart(Huetchen* hut);
     std::list<std::shared_ptr<Huetchen>> getHuetchen(){ return huetchen; }
-
+    void koppeln(std::list<std::shared_ptr<Huetchen>> h){ huetchen = h; }
 };
 
