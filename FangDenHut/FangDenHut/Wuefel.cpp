@@ -1,5 +1,5 @@
 #include "Wuefel.h"
-#include  <cstdlib>.
+#include  <cstdlib>
 
 int Wuefel::wuefelwuefeln() {
 	return std::rand() % 6;

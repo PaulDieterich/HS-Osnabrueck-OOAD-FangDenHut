@@ -1,0 +1,17 @@
+//
+// Created by pjd-x1 on 6/15/21.
+//
+
+#ifndef HS_OSNABRUECK_OOAD_FANGDENHUT_FARBE_H
+#define HS_OSNABRUECK_OOAD_FANGDENHUT_FARBE_H
+
+enum Farbe{
+    ROT = 0,
+    GELB,
+    BLAU,
+    GRUEN,
+    SCHWARZ,
+    WEISS
+};
+
+#endif //HS_OSNABRUECK_OOAD_FANGDENHUT_FARBE_H

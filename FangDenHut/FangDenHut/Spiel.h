@@ -1,13 +1,14 @@
 #pragma once
-#include "Spieler.h"
-#include "wuefel.h"
+
+#include <memory>
+#include "Spieler/SpielerController.h"
+#include "Wuefel.h"
 class Spiel
 {
 private: 
-	Spieler spieler; 
-	Wuefel wuefel; 
 
 public: 
-	Spiel();
+	void spielStart(int spieleranzahl);
+	std::unique_ptr<SpielerController> controller;
 };
 

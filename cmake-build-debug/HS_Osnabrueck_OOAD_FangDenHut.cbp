@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Farbe.h">
+			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
+		</Unit>
 		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Feld/Feld.cpp">
 			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
 		</Unit>
@@ -114,6 +117,12 @@
 		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spiel.h">
 			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
 		</Unit>
+		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp">
+			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
+		</Unit>
+		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.h">
+			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
+		</Unit>
 		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp">
 			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
 		</Unit>
@@ -132,6 +141,12 @@
 		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spielbrett/SpielbrettView.h">
 			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
 		</Unit>
+		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp">
+			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
+		</Unit>
+		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spielbrett/StartbereichView.h">
+			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
+		</Unit>
 		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spieler/Spieler.cpp">
 			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
 		</Unit>
@@ -147,13 +162,19 @@
 		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spieler/SpielerView.h">
 			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
 		</Unit>
+		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/View.cpp">
+			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
+		</Unit>
+		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/View.h">
+			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
+		</Unit>
+		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Wuefel.cpp">
+			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
+		</Unit>
+		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Wuefel.h">
+			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
+		</Unit>
 		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/main.cpp">
-			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
-		</Unit>
-		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/wuefel.cpp">
-			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
-		</Unit>
-		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/wuefel.h">
 			<Option target="HS_Osnabrueck_OOAD_FangDenHut"/>
 		</Unit>
 		<Unit filename="/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/CMakeLists.txt">

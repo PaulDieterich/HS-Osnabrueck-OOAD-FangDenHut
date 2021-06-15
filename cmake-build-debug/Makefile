@@ -277,6 +277,33 @@ FangDenHut/FangDenHut/Spiel.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spiel.cpp.s
 .PHONY : FangDenHut/FangDenHut/Spiel.cpp.s
 
+FangDenHut/FangDenHut/Spielbrett/LaufbahnView.o: FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o
+
+.PHONY : FangDenHut/FangDenHut/Spielbrett/LaufbahnView.o
+
+# target to build an object file
+FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o
+.PHONY : FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o
+
+FangDenHut/FangDenHut/Spielbrett/LaufbahnView.i: FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.i
+
+.PHONY : FangDenHut/FangDenHut/Spielbrett/LaufbahnView.i
+
+# target to preprocess a source file
+FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.i
+.PHONY : FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.i
+
+FangDenHut/FangDenHut/Spielbrett/LaufbahnView.s: FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.s
+
+.PHONY : FangDenHut/FangDenHut/Spielbrett/LaufbahnView.s
+
+# target to generate assembly for a file
+FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.s
+.PHONY : FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.s
+
 FangDenHut/FangDenHut/Spielbrett/Spielbrett.o: FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.o
 
 .PHONY : FangDenHut/FangDenHut/Spielbrett/Spielbrett.o
@@ -358,6 +385,33 @@ FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.s
 .PHONY : FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.s
 
+FangDenHut/FangDenHut/Spielbrett/StartbereichView.o: FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o
+
+.PHONY : FangDenHut/FangDenHut/Spielbrett/StartbereichView.o
+
+# target to build an object file
+FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o
+.PHONY : FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o
+
+FangDenHut/FangDenHut/Spielbrett/StartbereichView.i: FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.i
+
+.PHONY : FangDenHut/FangDenHut/Spielbrett/StartbereichView.i
+
+# target to preprocess a source file
+FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.i
+.PHONY : FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.i
+
+FangDenHut/FangDenHut/Spielbrett/StartbereichView.s: FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.s
+
+.PHONY : FangDenHut/FangDenHut/Spielbrett/StartbereichView.s
+
+# target to generate assembly for a file
+FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.s
+.PHONY : FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.s
+
 FangDenHut/FangDenHut/Spieler/Spieler.o: FangDenHut/FangDenHut/Spieler/Spieler.cpp.o
 
 .PHONY : FangDenHut/FangDenHut/Spieler/Spieler.o
@@ -412,6 +466,60 @@ FangDenHut/FangDenHut/Spieler/SpielerController.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.s
 .PHONY : FangDenHut/FangDenHut/Spieler/SpielerController.cpp.s
 
+FangDenHut/FangDenHut/View.o: FangDenHut/FangDenHut/View.cpp.o
+
+.PHONY : FangDenHut/FangDenHut/View.o
+
+# target to build an object file
+FangDenHut/FangDenHut/View.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.o
+.PHONY : FangDenHut/FangDenHut/View.cpp.o
+
+FangDenHut/FangDenHut/View.i: FangDenHut/FangDenHut/View.cpp.i
+
+.PHONY : FangDenHut/FangDenHut/View.i
+
+# target to preprocess a source file
+FangDenHut/FangDenHut/View.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.i
+.PHONY : FangDenHut/FangDenHut/View.cpp.i
+
+FangDenHut/FangDenHut/View.s: FangDenHut/FangDenHut/View.cpp.s
+
+.PHONY : FangDenHut/FangDenHut/View.s
+
+# target to generate assembly for a file
+FangDenHut/FangDenHut/View.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.s
+.PHONY : FangDenHut/FangDenHut/View.cpp.s
+
+FangDenHut/FangDenHut/Wuefel.o: FangDenHut/FangDenHut/Wuefel.cpp.o
+
+.PHONY : FangDenHut/FangDenHut/Wuefel.o
+
+# target to build an object file
+FangDenHut/FangDenHut/Wuefel.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.o
+.PHONY : FangDenHut/FangDenHut/Wuefel.cpp.o
+
+FangDenHut/FangDenHut/Wuefel.i: FangDenHut/FangDenHut/Wuefel.cpp.i
+
+.PHONY : FangDenHut/FangDenHut/Wuefel.i
+
+# target to preprocess a source file
+FangDenHut/FangDenHut/Wuefel.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.i
+.PHONY : FangDenHut/FangDenHut/Wuefel.cpp.i
+
+FangDenHut/FangDenHut/Wuefel.s: FangDenHut/FangDenHut/Wuefel.cpp.s
+
+.PHONY : FangDenHut/FangDenHut/Wuefel.s
+
+# target to generate assembly for a file
+FangDenHut/FangDenHut/Wuefel.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.s
+.PHONY : FangDenHut/FangDenHut/Wuefel.cpp.s
+
 FangDenHut/FangDenHut/main.o: FangDenHut/FangDenHut/main.cpp.o
 
 .PHONY : FangDenHut/FangDenHut/main.o
@@ -439,33 +547,6 @@ FangDenHut/FangDenHut/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/main.cpp.s
 .PHONY : FangDenHut/FangDenHut/main.cpp.s
 
-FangDenHut/FangDenHut/wuefel.o: FangDenHut/FangDenHut/wuefel.cpp.o
-
-.PHONY : FangDenHut/FangDenHut/wuefel.o
-
-# target to build an object file
-FangDenHut/FangDenHut/wuefel.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/wuefel.cpp.o
-.PHONY : FangDenHut/FangDenHut/wuefel.cpp.o
-
-FangDenHut/FangDenHut/wuefel.i: FangDenHut/FangDenHut/wuefel.cpp.i
-
-.PHONY : FangDenHut/FangDenHut/wuefel.i
-
-# target to preprocess a source file
-FangDenHut/FangDenHut/wuefel.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/wuefel.cpp.i
-.PHONY : FangDenHut/FangDenHut/wuefel.cpp.i
-
-FangDenHut/FangDenHut/wuefel.s: FangDenHut/FangDenHut/wuefel.cpp.s
-
-.PHONY : FangDenHut/FangDenHut/wuefel.s
-
-# target to generate assembly for a file
-FangDenHut/FangDenHut/wuefel.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/wuefel.cpp.s
-.PHONY : FangDenHut/FangDenHut/wuefel.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -490,6 +571,9 @@ help:
 	@echo "... FangDenHut/FangDenHut/Spiel.o"
 	@echo "... FangDenHut/FangDenHut/Spiel.i"
 	@echo "... FangDenHut/FangDenHut/Spiel.s"
+	@echo "... FangDenHut/FangDenHut/Spielbrett/LaufbahnView.o"
+	@echo "... FangDenHut/FangDenHut/Spielbrett/LaufbahnView.i"
+	@echo "... FangDenHut/FangDenHut/Spielbrett/LaufbahnView.s"
 	@echo "... FangDenHut/FangDenHut/Spielbrett/Spielbrett.o"
 	@echo "... FangDenHut/FangDenHut/Spielbrett/Spielbrett.i"
 	@echo "... FangDenHut/FangDenHut/Spielbrett/Spielbrett.s"
@@ -499,18 +583,24 @@ help:
 	@echo "... FangDenHut/FangDenHut/Spielbrett/SpielbrettView.o"
 	@echo "... FangDenHut/FangDenHut/Spielbrett/SpielbrettView.i"
 	@echo "... FangDenHut/FangDenHut/Spielbrett/SpielbrettView.s"
+	@echo "... FangDenHut/FangDenHut/Spielbrett/StartbereichView.o"
+	@echo "... FangDenHut/FangDenHut/Spielbrett/StartbereichView.i"
+	@echo "... FangDenHut/FangDenHut/Spielbrett/StartbereichView.s"
 	@echo "... FangDenHut/FangDenHut/Spieler/Spieler.o"
 	@echo "... FangDenHut/FangDenHut/Spieler/Spieler.i"
 	@echo "... FangDenHut/FangDenHut/Spieler/Spieler.s"
 	@echo "... FangDenHut/FangDenHut/Spieler/SpielerController.o"
 	@echo "... FangDenHut/FangDenHut/Spieler/SpielerController.i"
 	@echo "... FangDenHut/FangDenHut/Spieler/SpielerController.s"
+	@echo "... FangDenHut/FangDenHut/View.o"
+	@echo "... FangDenHut/FangDenHut/View.i"
+	@echo "... FangDenHut/FangDenHut/View.s"
+	@echo "... FangDenHut/FangDenHut/Wuefel.o"
+	@echo "... FangDenHut/FangDenHut/Wuefel.i"
+	@echo "... FangDenHut/FangDenHut/Wuefel.s"
 	@echo "... FangDenHut/FangDenHut/main.o"
 	@echo "... FangDenHut/FangDenHut/main.i"
 	@echo "... FangDenHut/FangDenHut/main.s"
-	@echo "... FangDenHut/FangDenHut/wuefel.o"
-	@echo "... FangDenHut/FangDenHut/wuefel.i"
-	@echo "... FangDenHut/FangDenHut/wuefel.s"
 .PHONY : help
 
 

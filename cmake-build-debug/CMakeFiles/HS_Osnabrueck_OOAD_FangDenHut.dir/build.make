@@ -219,18 +219,57 @@ CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/Spiel
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spieler/SpielerController.cpp -o CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.s
 
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/wuefel.cpp.o: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/flags.make
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/wuefel.cpp.o: ../FangDenHut/FangDenHut/wuefel.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/wuefel.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/wuefel.cpp.o -c /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/wuefel.cpp
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.o: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/flags.make
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.o: ../FangDenHut/FangDenHut/Wuefel.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.o -c /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Wuefel.cpp
 
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/wuefel.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/wuefel.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/wuefel.cpp > CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/wuefel.cpp.i
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Wuefel.cpp > CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.i
 
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/wuefel.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/wuefel.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/wuefel.cpp -o CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/wuefel.cpp.s
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Wuefel.cpp -o CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.s
+
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.o: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/flags.make
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.o: ../FangDenHut/FangDenHut/View.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.o -c /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/View.cpp
+
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/View.cpp > CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.i
+
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/View.cpp -o CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.s
+
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/flags.make
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o -c /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp
+
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp > CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.i
+
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp -o CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.s
+
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/flags.make
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o -c /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp
+
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp > CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.i
+
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp -o CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.s
 
 # Object files for target HS_Osnabrueck_OOAD_FangDenHut
 HS_Osnabrueck_OOAD_FangDenHut_OBJECTS = \
@@ -245,7 +284,10 @@ HS_Osnabrueck_OOAD_FangDenHut_OBJECTS = \
 "CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.o" \
 "CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/Spieler.cpp.o" \
 "CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.o" \
-"CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/wuefel.cpp.o"
+"CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.o" \
+"CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.o" \
+"CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o" \
+"CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o"
 
 # External object files for target HS_Osnabrueck_OOAD_FangDenHut
 HS_Osnabrueck_OOAD_FangDenHut_EXTERNAL_OBJECTS =
@@ -261,10 +303,13 @@ HS_Osnabrueck_OOAD_FangDenHut: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/Fang
 HS_Osnabrueck_OOAD_FangDenHut: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.o
 HS_Osnabrueck_OOAD_FangDenHut: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/Spieler.cpp.o
 HS_Osnabrueck_OOAD_FangDenHut: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.o
-HS_Osnabrueck_OOAD_FangDenHut: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/wuefel.cpp.o
+HS_Osnabrueck_OOAD_FangDenHut: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.o
+HS_Osnabrueck_OOAD_FangDenHut: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.o
+HS_Osnabrueck_OOAD_FangDenHut: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o
+HS_Osnabrueck_OOAD_FangDenHut: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o
 HS_Osnabrueck_OOAD_FangDenHut: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make
 HS_Osnabrueck_OOAD_FangDenHut: CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable HS_Osnabrueck_OOAD_FangDenHut"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/pjd-x1/Documents/HS-Osnabrueck-OOAD-FangDenHut/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable HS_Osnabrueck_OOAD_FangDenHut"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -6,6 +6,6 @@ private:
 
 	
 public: 
-	int wuefelwuefeln(){}
+	int wuefelwuefeln();
 };
 

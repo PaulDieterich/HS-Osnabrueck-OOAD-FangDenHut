@@ -28,5 +28,5 @@ add_executable(HS_Osnabrueck_OOAD_FangDenHut
         FangDenHut/FangDenHut/Spieler/SpielerController.cpp
         FangDenHut/FangDenHut/Spieler/SpielerController.h
         FangDenHut/FangDenHut/Spieler/SpielerView.h
-        FangDenHut/FangDenHut/wuefel.cpp
-        FangDenHut/FangDenHut/wuefel.h)
+        FangDenHut/FangDenHut/Wuefel.cpp
+        FangDenHut/FangDenHut/Wuefel.h FangDenHut/FangDenHut/Farbe.h FangDenHut/FangDenHut/View.cpp FangDenHut/FangDenHut/View.h FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp FangDenHut/FangDenHut/Spielbrett/StartbereichView.h FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp FangDenHut/FangDenHut/Spielbrett/LaufbahnView.h)
