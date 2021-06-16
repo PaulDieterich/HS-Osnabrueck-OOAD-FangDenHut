@@ -3,10 +3,10 @@
 //
 
 #include <iostream>
-#include "LaufbahnView.h"
+#include "FelderbahnView.h"
 
 
-void LaufbahnView::show() {
+void FelderbahnView::show() {
 
     std::cout << "Laufbahn" << std::endl;
     for (std::list<std::shared_ptr<Feld>>::iterator it = felder.begin(); it != felder.end(); ++it) {

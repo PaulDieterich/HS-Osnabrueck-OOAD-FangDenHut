@@ -18,12 +18,13 @@ void Spielbrett::spielerAnlegen(int spieleranzahl) {
 
 }
 
-Feld* Spielbrett::getFelderIndex(int x) {
-    Feld* tmp = felder.begin()->get();
-    std::advance(tmp, x);
-    return tmp;
-}
+std::shared_ptr<Feld> Spielbrett::getFeldPerIndex(int x) {
+    auto tmp = felder.begin();
 
+    std::advance(tmp, x);
+
+    return *tmp;
+}
 void Spielbrett::showSpielbrett() {
     l_view.get()->show();
     for(std::list<std::unique_ptr<HeimatfeldView>>::iterator it = h_view.begin(); it != h_view.end(); ++it){

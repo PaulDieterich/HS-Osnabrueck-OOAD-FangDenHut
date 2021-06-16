@@ -23,6 +23,6 @@ public:
     void setHuetchen(const std::shared_ptr <Huetchen> &huetchen) {Feld::huetchen = huetchen;}
 
     void hutLeaves(){ huetchen.reset();}
-    void hutNimmtEin(Huetchen* h);
+    void hutNimmtEin(std::shared_ptr<Huetchen> h);
 };
 

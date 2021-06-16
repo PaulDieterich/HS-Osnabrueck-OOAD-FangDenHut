@@ -304,32 +304,32 @@ FangDenHut/FangDenHut/Huetchen.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Huetchen.cpp.s
 .PHONY : FangDenHut/FangDenHut/Huetchen.cpp.s
 
-FangDenHut/FangDenHut/Spielbrett/LaufbahnView.o: FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o
+FangDenHut/FangDenHut/Spielbrett/FelderbahnView.o: FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.o
 
-.PHONY : FangDenHut/FangDenHut/Spielbrett/LaufbahnView.o
+.PHONY : FangDenHut/FangDenHut/Spielbrett/FelderbahnView.o
 
 # target to build an object file
-FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o
-.PHONY : FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o
+FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.o
+.PHONY : FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.o
 
-FangDenHut/FangDenHut/Spielbrett/LaufbahnView.i: FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.i
+FangDenHut/FangDenHut/Spielbrett/FelderbahnView.i: FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.i
 
-.PHONY : FangDenHut/FangDenHut/Spielbrett/LaufbahnView.i
+.PHONY : FangDenHut/FangDenHut/Spielbrett/FelderbahnView.i
 
 # target to preprocess a source file
-FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.i
-.PHONY : FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.i
+FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.i
+.PHONY : FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.i
 
-FangDenHut/FangDenHut/Spielbrett/LaufbahnView.s: FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.s
+FangDenHut/FangDenHut/Spielbrett/FelderbahnView.s: FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.s
 
-.PHONY : FangDenHut/FangDenHut/Spielbrett/LaufbahnView.s
+.PHONY : FangDenHut/FangDenHut/Spielbrett/FelderbahnView.s
 
 # target to generate assembly for a file
-FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.s
-.PHONY : FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.s
+FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.s
+.PHONY : FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.s
 
 FangDenHut/FangDenHut/Spielbrett/Spielbrett.o: FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.o
 
@@ -357,87 +357,6 @@ FangDenHut/FangDenHut/Spielbrett/Spielbrett.s: FangDenHut/FangDenHut/Spielbrett/
 FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.s
 .PHONY : FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.s
-
-FangDenHut/FangDenHut/Spielbrett/SpielbrettController.o: FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp.o
-
-.PHONY : FangDenHut/FangDenHut/Spielbrett/SpielbrettController.o
-
-# target to build an object file
-FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp.o
-.PHONY : FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp.o
-
-FangDenHut/FangDenHut/Spielbrett/SpielbrettController.i: FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp.i
-
-.PHONY : FangDenHut/FangDenHut/Spielbrett/SpielbrettController.i
-
-# target to preprocess a source file
-FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp.i
-.PHONY : FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp.i
-
-FangDenHut/FangDenHut/Spielbrett/SpielbrettController.s: FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp.s
-
-.PHONY : FangDenHut/FangDenHut/Spielbrett/SpielbrettController.s
-
-# target to generate assembly for a file
-FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp.s
-.PHONY : FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp.s
-
-FangDenHut/FangDenHut/Spielbrett/SpielbrettView.o: FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.o
-
-.PHONY : FangDenHut/FangDenHut/Spielbrett/SpielbrettView.o
-
-# target to build an object file
-FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.o
-.PHONY : FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.o
-
-FangDenHut/FangDenHut/Spielbrett/SpielbrettView.i: FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.i
-
-.PHONY : FangDenHut/FangDenHut/Spielbrett/SpielbrettView.i
-
-# target to preprocess a source file
-FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.i
-.PHONY : FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.i
-
-FangDenHut/FangDenHut/Spielbrett/SpielbrettView.s: FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.s
-
-.PHONY : FangDenHut/FangDenHut/Spielbrett/SpielbrettView.s
-
-# target to generate assembly for a file
-FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.s
-.PHONY : FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.s
-
-FangDenHut/FangDenHut/Spielbrett/StartbereichView.o: FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o
-
-.PHONY : FangDenHut/FangDenHut/Spielbrett/StartbereichView.o
-
-# target to build an object file
-FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o
-.PHONY : FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o
-
-FangDenHut/FangDenHut/Spielbrett/StartbereichView.i: FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.i
-
-.PHONY : FangDenHut/FangDenHut/Spielbrett/StartbereichView.i
-
-# target to preprocess a source file
-FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.i
-.PHONY : FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.i
-
-FangDenHut/FangDenHut/Spielbrett/StartbereichView.s: FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.s
-
-.PHONY : FangDenHut/FangDenHut/Spielbrett/StartbereichView.s
-
-# target to generate assembly for a file
-FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.s
-.PHONY : FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.s
 
 FangDenHut/FangDenHut/Spieler/Spieler.o: FangDenHut/FangDenHut/Spieler/Spieler.cpp.o
 
@@ -492,33 +411,6 @@ FangDenHut/FangDenHut/Spieler/SpielerController.s: FangDenHut/FangDenHut/Spieler
 FangDenHut/FangDenHut/Spieler/SpielerController.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.s
 .PHONY : FangDenHut/FangDenHut/Spieler/SpielerController.cpp.s
-
-FangDenHut/FangDenHut/View.o: FangDenHut/FangDenHut/View.cpp.o
-
-.PHONY : FangDenHut/FangDenHut/View.o
-
-# target to build an object file
-FangDenHut/FangDenHut/View.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.o
-.PHONY : FangDenHut/FangDenHut/View.cpp.o
-
-FangDenHut/FangDenHut/View.i: FangDenHut/FangDenHut/View.cpp.i
-
-.PHONY : FangDenHut/FangDenHut/View.i
-
-# target to preprocess a source file
-FangDenHut/FangDenHut/View.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.i
-.PHONY : FangDenHut/FangDenHut/View.cpp.i
-
-FangDenHut/FangDenHut/View.s: FangDenHut/FangDenHut/View.cpp.s
-
-.PHONY : FangDenHut/FangDenHut/View.s
-
-# target to generate assembly for a file
-FangDenHut/FangDenHut/View.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/build.make CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.s
-.PHONY : FangDenHut/FangDenHut/View.cpp.s
 
 FangDenHut/FangDenHut/Wuefel.o: FangDenHut/FangDenHut/Wuefel.cpp.o
 
@@ -601,30 +493,18 @@ help:
 	@echo "... FangDenHut/FangDenHut/Huetchen.o"
 	@echo "... FangDenHut/FangDenHut/Huetchen.i"
 	@echo "... FangDenHut/FangDenHut/Huetchen.s"
-	@echo "... FangDenHut/FangDenHut/Spielbrett/LaufbahnView.o"
-	@echo "... FangDenHut/FangDenHut/Spielbrett/LaufbahnView.i"
-	@echo "... FangDenHut/FangDenHut/Spielbrett/LaufbahnView.s"
+	@echo "... FangDenHut/FangDenHut/Spielbrett/FelderbahnView.o"
+	@echo "... FangDenHut/FangDenHut/Spielbrett/FelderbahnView.i"
+	@echo "... FangDenHut/FangDenHut/Spielbrett/FelderbahnView.s"
 	@echo "... FangDenHut/FangDenHut/Spielbrett/Spielbrett.o"
 	@echo "... FangDenHut/FangDenHut/Spielbrett/Spielbrett.i"
 	@echo "... FangDenHut/FangDenHut/Spielbrett/Spielbrett.s"
-	@echo "... FangDenHut/FangDenHut/Spielbrett/SpielbrettController.o"
-	@echo "... FangDenHut/FangDenHut/Spielbrett/SpielbrettController.i"
-	@echo "... FangDenHut/FangDenHut/Spielbrett/SpielbrettController.s"
-	@echo "... FangDenHut/FangDenHut/Spielbrett/SpielbrettView.o"
-	@echo "... FangDenHut/FangDenHut/Spielbrett/SpielbrettView.i"
-	@echo "... FangDenHut/FangDenHut/Spielbrett/SpielbrettView.s"
-	@echo "... FangDenHut/FangDenHut/Spielbrett/StartbereichView.o"
-	@echo "... FangDenHut/FangDenHut/Spielbrett/StartbereichView.i"
-	@echo "... FangDenHut/FangDenHut/Spielbrett/StartbereichView.s"
 	@echo "... FangDenHut/FangDenHut/Spieler/Spieler.o"
 	@echo "... FangDenHut/FangDenHut/Spieler/Spieler.i"
 	@echo "... FangDenHut/FangDenHut/Spieler/Spieler.s"
 	@echo "... FangDenHut/FangDenHut/Spieler/SpielerController.o"
 	@echo "... FangDenHut/FangDenHut/Spieler/SpielerController.i"
 	@echo "... FangDenHut/FangDenHut/Spieler/SpielerController.s"
-	@echo "... FangDenHut/FangDenHut/View.o"
-	@echo "... FangDenHut/FangDenHut/View.i"
-	@echo "... FangDenHut/FangDenHut/View.s"
 	@echo "... FangDenHut/FangDenHut/Wuefel.o"
 	@echo "... FangDenHut/FangDenHut/Wuefel.i"
 	@echo "... FangDenHut/FangDenHut/Wuefel.s"

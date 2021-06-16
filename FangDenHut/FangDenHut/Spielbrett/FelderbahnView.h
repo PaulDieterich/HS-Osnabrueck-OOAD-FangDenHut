@@ -6,9 +6,9 @@
 #include "Feld/Feld.h"
 #include "Feld/Heimatfeld.h"
 
-class LaufbahnView : public View {
+class FelderbahnView : public View {
 public:
-    LaufbahnView(std::list<std::shared_ptr<Feld>> felder);
+    FelderbahnView(std::list<std::shared_ptr<Feld>> felder);
     void show();
     //void modelChanged();
 private:

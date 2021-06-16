@@ -12,6 +12,7 @@ class Heimatfeld;
 
 class Huetchen{
 private:
+    std::string name;
     Farbe farbe;
     bool nutzbar;
     std::shared_ptr<Feld> position;
@@ -19,15 +20,20 @@ private:
 	bool status;
 
 public:
+    Huetchen(Farbe _farbe, std::string _name):farbe(_farbe), name(_name){}
     bool isNutzbar(){ return nutzbar;}
     void setNutzbar(bool n){nutzbar = n; }
-    Huetchen(Farbe _farbe):farbe(_farbe){}
+
     Farbe getFarbe(){ return farbe; }
     void leaveHome(){ heim.reset(); }
    void setHome( std::shared_ptr<Heimatfeld> hf){
         heim.reset();
-        heim = hf; }
-
+        heim = hf;
+    }
+    void setFeld(std::shared_ptr<Feld> feld){
+        position.reset();
+        position = feld;
+    }
     const std::shared_ptr<Feld> &getPosition() const {
         return position;
     }
@@ -35,8 +41,5 @@ public:
     void setPosition(const std::shared_ptr<Feld> &position) {
         Huetchen::position = position;
     }
-
-    void bewegen(Feld* feld);
-    void fangen();
 };
 

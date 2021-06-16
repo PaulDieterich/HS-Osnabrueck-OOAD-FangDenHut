@@ -1,16 +1,18 @@
 #pragma once
 
 #include "Spieler/Spieler.h"
-#include "LaufbahnView.h"
+#include "FelderbahnView.h"
 #include <memory>
 #include <Feld/Heimatfeld.h>
+
+class HeimatfeldView;
 
 class Spielbrett{
 private:
     int spielerAnzahl;
 	int felderAnzahl;
     std::list<std::shared_ptr<Feld>> felder;
-    std::unique_ptr<LaufbahnView> l_view;
+    std::unique_ptr<FelderbahnView> l_view;
     std::list<std::unique_ptr<HeimatfeldView>> h_view;
     void felderAnlegen(int felderanzahl);
     void spielerAnlegen(int spieleranzahl);
@@ -25,4 +27,6 @@ public:
     Spielbrett(int i);
     void showSpielbrett();
     std::list<std::shared_ptr<Heimatfeld>> heimatfelder;
+
+    std::shared_ptr<Feld> getFeldPerIndex(int x);
 };

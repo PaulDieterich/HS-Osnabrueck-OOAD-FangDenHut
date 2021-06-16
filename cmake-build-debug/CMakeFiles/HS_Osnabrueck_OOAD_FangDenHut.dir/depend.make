@@ -5,8 +5,10 @@ CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/FangDenHut.cp
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/FangDenHut.cpp.o: ../FangDenHut/FangDenHut/Feld/Feld.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/FangDenHut.cpp.o: ../FangDenHut/FangDenHut/Feld/Heimatfeld.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/FangDenHut.cpp.o: ../FangDenHut/FangDenHut/Huetchen.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/FangDenHut.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/FelderbahnView.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/FangDenHut.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/Spielbrett.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/FangDenHut.cpp.o: ../FangDenHut/FangDenHut/Spieler/Spieler.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/FangDenHut.cpp.o: ../FangDenHut/FangDenHut/View.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/FangDenHut.cpp.o: ../FangDenHut/FangDenHut/FangDenHut.cpp
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/FangDenHut.cpp.o: ../FangDenHut/FangDenHut/FangDenHut.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/FangDenHut.cpp.o: ../FangDenHut/FangDenHut/Spieler/SpielerController.h
@@ -25,6 +27,15 @@ CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/Heimatfe
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/Heimatfeld.cpp.o: ../FangDenHut/FangDenHut/Feld/Heimatfeld.cpp
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/Heimatfeld.cpp.o: ../FangDenHut/FangDenHut/Feld/Heimatfeld.h
 
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.o: ../FangDenHut/FangDenHut/Farbe.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.o: ../FangDenHut/FangDenHut/Feld/Heimatfeld.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.o: ../FangDenHut/FangDenHut/Huetchen.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.o: ../FangDenHut/FangDenHut/View.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.o: ../FangDenHut/FangDenHut/Feld/Feld.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.o: ../FangDenHut/FangDenHut/Feld/Heimatfeld.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.o: ../FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/HeimatfeldView.cpp.o: ../FangDenHut/FangDenHut/Feld/HeimatfeldView.h
+
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Feld/Ruhefeld.cpp.o: ../FangDenHut/FangDenHut/Feld/Ruhefeld.cpp
 
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Huetchen.cpp.o: ../FangDenHut/FangDenHut/Feld/Feld.h
@@ -33,33 +44,24 @@ CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Huetchen.cpp.
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Huetchen.cpp.o: ../FangDenHut/FangDenHut/Huetchen.cpp
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Huetchen.cpp.o: ../FangDenHut/FangDenHut/Huetchen.h
 
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o: ../FangDenHut/FangDenHut/Farbe.h
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o: ../FangDenHut/FangDenHut/Feld/Feld.h
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o: ../FangDenHut/FangDenHut/Feld/Heimatfeld.h
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o: ../FangDenHut/FangDenHut/Huetchen.h
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o: ../FangDenHut/FangDenHut/View.h
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/LaufbahnView.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/LaufbahnView.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.o: ../FangDenHut/FangDenHut/Farbe.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.o: ../FangDenHut/FangDenHut/Feld/Feld.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.o: ../FangDenHut/FangDenHut/Feld/Heimatfeld.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.o: ../FangDenHut/FangDenHut/Huetchen.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.o: ../FangDenHut/FangDenHut/View.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/FelderbahnView.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/FelderbahnView.h
 
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.o: ../FangDenHut/FangDenHut/Farbe.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.o: ../FangDenHut/FangDenHut/Feld/Feld.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.o: ../FangDenHut/FangDenHut/Feld/Heimatfeld.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.o: ../FangDenHut/FangDenHut/Feld/HeimatfeldView.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.o: ../FangDenHut/FangDenHut/Huetchen.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.o: ../FangDenHut/FangDenHut/Spieler/Spieler.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.o: ../FangDenHut/FangDenHut/View.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/FelderbahnView.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/Spielbrett.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/Spielbrett.h
-
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/SpielbrettController.cpp
-
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/SpielbrettView.cpp
-
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o: ../FangDenHut/FangDenHut/Farbe.h
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o: ../FangDenHut/FangDenHut/Feld/Feld.h
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o: ../FangDenHut/FangDenHut/Feld/Heimatfeld.h
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o: ../FangDenHut/FangDenHut/Huetchen.h
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o: ../FangDenHut/FangDenHut/View.h
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spielbrett/StartbereichView.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/StartbereichView.h
 
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/Spieler.cpp.o: ../FangDenHut/FangDenHut/Farbe.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/Spieler.cpp.o: ../FangDenHut/FangDenHut/Feld/Feld.h
@@ -72,14 +74,13 @@ CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/Spiel
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.o: ../FangDenHut/FangDenHut/Feld/Feld.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.o: ../FangDenHut/FangDenHut/Feld/Heimatfeld.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.o: ../FangDenHut/FangDenHut/Huetchen.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/FelderbahnView.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/Spielbrett.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.o: ../FangDenHut/FangDenHut/Spieler/Spieler.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.o: ../FangDenHut/FangDenHut/View.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.o: ../FangDenHut/FangDenHut/Wuefel.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.o: ../FangDenHut/FangDenHut/Spieler/SpielerController.cpp
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Spieler/SpielerController.cpp.o: ../FangDenHut/FangDenHut/Spieler/SpielerController.h
-
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.o: ../FangDenHut/FangDenHut/View.cpp
-CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/View.cpp.o: ../FangDenHut/FangDenHut/View.h
 
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.o: ../FangDenHut/FangDenHut/Wuefel.cpp
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/Wuefel.cpp.o: ../FangDenHut/FangDenHut/Wuefel.h
@@ -88,8 +89,10 @@ CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/main.cpp.o: .
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/main.cpp.o: ../FangDenHut/FangDenHut/Feld/Feld.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/main.cpp.o: ../FangDenHut/FangDenHut/Feld/Heimatfeld.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/main.cpp.o: ../FangDenHut/FangDenHut/Huetchen.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/main.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/FelderbahnView.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/main.cpp.o: ../FangDenHut/FangDenHut/Spielbrett/Spielbrett.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/main.cpp.o: ../FangDenHut/FangDenHut/Spieler/Spieler.h
+CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/main.cpp.o: ../FangDenHut/FangDenHut/View.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/main.cpp.o: ../FangDenHut/FangDenHut/FangDenHut.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/main.cpp.o: ../FangDenHut/FangDenHut/Spieler/SpielerController.h
 CMakeFiles/HS_Osnabrueck_OOAD_FangDenHut.dir/FangDenHut/FangDenHut/main.cpp.o: ../FangDenHut/FangDenHut/Wuefel.h

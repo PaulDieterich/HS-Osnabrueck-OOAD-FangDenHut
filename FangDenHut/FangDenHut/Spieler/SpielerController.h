@@ -11,14 +11,18 @@ private:
     int wuerfelErgebnis;
     int spielerAnzahl;
 public:
-    SpielerController(int _spielerAnzahl);
+    std::unique_ptr<Spielbrett> spielbrett;
+    std::list<std::unique_ptr<Spieler>> spieler;
+
+    SpielerController(int _spielerAnzahl):spielerAnzahl(_spielerAnzahl){
+        wuefel = std::make_unique<Wuefel>();
+    }
 
 	void hutZiehen();
 	void hutwaehlen(std::shared_ptr<Huetchen> huetchen);
 	void wuefelwerfen();
     int getWuefelergebnis(){ return wuerfelErgebnis;}
-	std::unique_ptr<Spielbrett> spielbrett;
-	std::list<std::unique_ptr<Spieler>> spieler;
+
 
 };
 

@@ -8,8 +8,8 @@ class FangDenHut
 {
 private: 
 
-public: 
-	void spielStart(int spieleranzahl,int felderzahlen);
+public:
+    void spielStart(int spieleranzahl,int felderzahlen);
 	std::unique_ptr<SpielerController> controller;
 };
 

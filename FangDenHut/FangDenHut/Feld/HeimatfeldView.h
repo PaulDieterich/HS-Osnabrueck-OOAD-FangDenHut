@@ -19,9 +19,9 @@ private:
 public:
 
     HeimatfeldView(Farbe _farbe): farbe(_farbe){};
-    void show();
-    void setHeimatfeld(std::shared_ptr<Heimatfeld> h){ heimatfeld = h; };
 
+    void setHeimatfeld(std::shared_ptr<Heimatfeld> h){ heimatfeld = h; };
+    void show();
 };
 
 
