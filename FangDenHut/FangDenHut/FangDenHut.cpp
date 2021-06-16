@@ -1,5 +1,8 @@
 #include "FangDenHut.h"
 
+
+
+//mit Hilfe von Jan Weimar
 void FangDenHut::spielStart(int spieleranzahl, int felderanzahl) {
     controller = std::make_unique<SpielerController>(spieleranzahl);
     controller->spielbrett = std::make_unique<Spielbrett>(spieleranzahl,felderanzahl);
